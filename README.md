@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# react-pdftron-image-edit
+Edit PDFs as images like greyscale, brigtness, contrast, rotate, crop, and flip. Updates the opened PDF.
 
 In the project directory, you can run:
 
